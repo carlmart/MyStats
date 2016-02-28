@@ -1,0 +1,8 @@
+Package: mestats
+Title: A one liner basic stats command
+Version: 0.0.1.0000
+Authors@purplenix.com: person("Carlos", "Martinez", email = "marti149@purplenix.com", role = c("aut", "cre"))
+Description: A basic stats package.
+Depends: R (>= 3.2.3)
+License: GPL
+LazyData: true
